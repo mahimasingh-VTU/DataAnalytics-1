@@ -1,1 +1,1 @@
-# DataAnalutics-1
+# DataAnalytics-1
